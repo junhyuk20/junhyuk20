@@ -1,5 +1,5 @@
 - 👋 Hi, I’m JUN HYUK KIM
-- 👀 JavaScript, NODE.JS, TypeScript, nest.js
+- 👀 JavaScript, NODE.JS, TypeScript, Nest.js
 - 🌱 I’m currently learning TypeScript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 kwk8002@naver.com
